@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EldenRing")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3b7fdf22e0b317bdd78f54f8bdd7b19aabbba98")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec92def6ede439bbdf9886eed636aae6f29e0d67")]
 [assembly: System.Reflection.AssemblyProductAttribute("EldenRing")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EldenRing")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
